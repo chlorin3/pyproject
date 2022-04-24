@@ -1,3 +1,4 @@
-# mały lotek
+# starting with python 101 tutorial
 
-starting with python 101 tutorial
+### mały lotek
+### duży lotek
